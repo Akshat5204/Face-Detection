@@ -35,8 +35,7 @@ classification tasks.
 
 ``` shell
 # clone repo
-git clone https://github.com/akanametov/yolo-face
-
+git clone https://github.com/Akshat5204/Face-Detection
 # pip install required packages
 pip install ultralytics
 
